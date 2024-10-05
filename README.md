@@ -1,2 +1,3 @@
 # CryptoWave
-Cryptowave: Your Gateway to Crypto  Explore Cryptowave, your go-to platform for all things cryptocurrency. Get real-time market data, expert analysis, and a user-friendly experience powered by HTML, CSS, and JavaScript. Join us and ride the wave into the future of finance!
+Cryptowave: Your Gateway to Crypto
+Explore Cryptowave, a front-end project built using HTML, CSS, and JavaScript. This platform offers real-time cryptocurrency market data and expert analysis, delivering a seamless and user-friendly experience.
