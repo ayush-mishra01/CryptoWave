@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayush Mishra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<h1>About This Project</h1>
+<P>Cryptowave: Your Gateway to Crypto
+Explore Cryptowave, a front-end project built using HTML, CSS, and JavaScript. This platform offers real-time cryptocurrency market data and expert analysis, delivering a seamless and user-friendly experience.</P>
 
 - 📫 How to reach me **aayushmishra1001@gmail.com**
 
